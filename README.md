@@ -1,16 +1,38 @@
-## Hi there 👋
+### Salut 👋, moi c'est [Ton Nom ou Pseudo]  
+#### Développeur passionné par la tech et l'éducation 📱🎓
 
-<!--
-**leloeduk/leloeduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeur mobile spécialisé en **Flutter** et je construis des applications utiles comme **Lelo Profs** et **Lelo Livre** pour aider les enseignants et les élèves.  
+Je m'intéresse aux projets qui ont un impact réel sur la communauté. 🌍
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack technique
+- 🔧 Flutter, Dart
+- ☁️ Firebase (Auth, Firestore, Storage)
+- 💻 Visual Studio Code
+- 🔀 Git, GitHub
+
+---
+
+### 🚀 Projets récents
+
+- 📚 [LeloLivre](https://github.com/ton-pseudo/LeloLivre) – App de lecture et téléchargement de livres scolaires
+- 👨‍🏫 [LeloProfs](https://github.com/ton-pseudo/LeloProfs) – Plateforme de recrutement d'enseignants
+
+---
+
+### 📊 Stats GitHub
+
+![Ton nom GitHub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Me contacter
+- Email : tonemail@example.com
+- LinkedIn : [Ton profil](https://linkedin.com/in/tonprofil)
+- WhatsApp : +243 000 000 000
+
+---
+
+> _“Le code peut changer des vies. Moi, je code pour aider.”_ 💡
