@@ -10,18 +10,20 @@ Je m'intéresse aux projets qui ont un impact réel sur la communauté. 🌍
 ---
 
 ### 🛠️ Stack technique
-![Flutter](https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png)  
-![Dart](https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png)  
-![Firebase](https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png)  
-![Git](https://raw.githubusercontent.com/github/explore/main/topics/git/git.png)  
-![GitHub](https://raw.githubusercontent.com/github/explore/main/topics/github/github.png)  
-![HTML5](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)  
-![CSS3](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png)  
-![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)  
-![Django](https://raw.githubusercontent.com/github/explore/main/topics/django/django.png)  
-![PostgreSQL](https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png)  
-![Supabase](https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png)  
-![Appwrite](https://raw.githubusercontent.com/github/explore/main/topics/appwrite/appwrite.png)  
+<p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" width="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/appwrite/appwrite.png" width="50" />
+</p>
 
 ---
 
@@ -43,12 +45,12 @@ Si vous aimez mes projets, vous pouvez **⭐ mes dépôts**, partager mes travau
 ---
 
 ### 📫 Me contacter
-[![Email](https://img.shields.io/badge/Email-leloeduk2025@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leloeduk2025@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+242066826352-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/242066826352)  
-[![Facebook](https://img.shields.io/badge/Facebook-maurice.lelo.92-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maurice.lelo.92)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/lelo--maurice--714a72322-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelo-maurice-714a72322)  
-[![Twitter](https://img.shields.io/badge/Twitter-@TonPseudo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tonpseudo)  
-[![Instagram](https://img.shields.io/badge/Instagram-@TonPseudo-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tonpseudo)
+💬 WhatsApp : [![WhatsApp](https://img.shields.io/badge/-Envoyer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/242066826352)  
+🔗 Facebook : [![Facebook](https://img.shields.io/badge/-Profil-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maurice.lelo.92)  
+💼 LinkedIn : [![LinkedIn](https://img.shields.io/badge/-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelo-maurice-714a72322)  
+📧 Email : leloeduk2025@gmail.com  
+🐦 Twitter : @TonPseudo  
+📸 Instagram : @TonPseudo
 
 ---
 
