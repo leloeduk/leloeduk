@@ -10,18 +10,18 @@ Je m'intéresse aux projets qui ont un impact réel sur la communauté. 🌍
 ---
 
 ### 🛠️ Stack technique
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FF0000?style=for-the-badge&logo=appwrite&logoColor=white)
+![Flutter](https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png)  
+![Dart](https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png)  
+![Firebase](https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png)  
+![Git](https://raw.githubusercontent.com/github/explore/main/topics/git/git.png)  
+![GitHub](https://raw.githubusercontent.com/github/explore/main/topics/github/github.png)  
+![HTML5](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)  
+![CSS3](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png)  
+![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)  
+![Django](https://raw.githubusercontent.com/github/explore/main/topics/django/django.png)  
+![PostgreSQL](https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png)  
+![Supabase](https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png)  
+![Appwrite](https://raw.githubusercontent.com/github/explore/main/topics/appwrite/appwrite.png)  
 
 ---
 
@@ -43,12 +43,12 @@ Si vous aimez mes projets, vous pouvez **⭐ mes dépôts**, partager mes travau
 ---
 
 ### 📫 Me contacter
-- 📧 Email : **leloeduk2025@gmail.com**  
-- 💬 WhatsApp : **+242 06 682 63 52**  
-- 🔗 Facebook : [maurice.lelo.92](https://www.facebook.com/maurice.lelo.92)  
-- 💼 LinkedIn : [in/lelo-maurice-714a72322](https://www.linkedin.com/in/lelo-maurice-714a72322)  
-- 🐦 Twitter : [@TonPseudo](https://twitter.com/tonpseudo)  
-- 📸 Instagram : [@TonPseudo](https://instagram.com/tonpseudo)
+[![Email](https://img.shields.io/badge/Email-leloeduk2025@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leloeduk2025@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+242066826352-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/242066826352)  
+[![Facebook](https://img.shields.io/badge/Facebook-maurice.lelo.92-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maurice.lelo.92)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/lelo--maurice--714a72322-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelo-maurice-714a72322)  
+[![Twitter](https://img.shields.io/badge/Twitter-@TonPseudo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tonpseudo)  
+[![Instagram](https://img.shields.io/badge/Instagram-@TonPseudo-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tonpseudo)
 
 ---
 
