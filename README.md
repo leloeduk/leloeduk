@@ -18,14 +18,12 @@ Je m'intéresse aux projets qui ont un impact réel sur la communauté. 🌍
 ---
 
 ### 🚀 Projets récents
-
 - 📚 [LeloLivre](https://github.com/leloeduk/LeloLivre) – App de lecture et téléchargement de livres scolaires  
 - 👨‍🏫 [LeloProfs](https://github.com/leloeduk/LeloProfs) – Plateforme de recrutement d'enseignants  
 
 ---
 
-### 📊 Stats GitHub
-
+### 📊 Statistiques GitHub
 ![leloeduk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leloeduk&show_icons=true&theme=tokyonight)  
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=leloeduk&layout=compact&theme=tokyonight)
 
