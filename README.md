@@ -1,4 +1,4 @@
-# Salut 👋, moi c'est **LELO WADJETOU MAURICE**  
+# Salut 👋, moi c'est **LELO MAURICE**  
 
 #### Développeur passionné par la tech et l'éducation 📱🎓  
 📍 Pointe-Noire, Congo  
