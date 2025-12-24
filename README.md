@@ -1,79 +1,31 @@
-# Salut 👋, moi c'est **LELO MAURICE**  
+👋 Salut, je suis Lelo Maurice
+🎯 Développeur Full-Stack Mobile & Éducateur Technique | Je transforme des idées en applications et des concepts complexes en tutoriels clairs.
+📍 Pointe-Noire, Congo | 🌐 Mon Portfolio | 🎥 Ma Chaîne YouTube (@LeloEduk)
 
-#### Développeur passionné par la tech et l'éducation 📱🎓  
-📍 Pointe-Noire, Congo  
+Passionné par la tech à impact social, je conçois et développe principalement des applications mobiles avec Flutter, tout en construisant les APIs et back-ends qui les alimentent. Je partage régulièrement mes apprentissages pour aider la communauté des développeurs à grandir.
 
-Je suis développeur mobile spécialisé en **Flutter** et je construis des applications utiles comme **Lelo Profs** et **Lelo Livre** pour aider les enseignants et les élèves.  
-Je m'intéresse aux projets qui ont un impact réel sur la communauté. 🌍  
+🛠️ Stack Technique & Outils
+📱 Développement Mobile & Frontend
+<p> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> <img src="https://img.shields.io/badge/BLoC-&?style=for-the-badge&color=purple" alt="BLoC Pattern"/> </p>
+⚙️ Backend, Bases de Données & DevOps
+<p> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/> </p>
+🔧 Outils & Méthodes
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/> <img src="https://img.shields.io/badge/Agile-0091D6?style=for-the-badge" alt="Agile"/> </p>
+🚀 Projets Phares
+Projet	Stack	Description	Lien
+👨🏫 LeloProfs	Flutter Firebase	Plateforme de mise en relation entre établissements scolaires et enseignants au Congo.	<kbd>🔗 Code</kbd>
+📚 LeloLivre	Flutter Supabase	Application de lecture et de téléchargement de livres scolaires pour les élèves.	<kbd>🔗 Code</kbd>
+🚗 Lavage Samy Auto	Django PostgreSQL CI/CD	Backend complet avec API de gestion pour une station de lavage. CI/CD (GitHub Actions) et déploiement sur Render.	<kbd>🔗 Code</kbd> • <kbd>🌐 Démo</kbd>
+🎓 LeloEduk (YouTube)	Pédagogie Flutter Dart	Chaîne éducative où je décompose des concepts avancés de développement (Architecture, BLoC, Intégration API...).	<kbd>🎥 Chaîne</kbd>
+📊 Activité & Statistiques GitHub
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leloeduk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats GitHub"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leloeduk&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Langages Top"/> </div><p align="center"><i>Ces stats reflètent mon activité open-source et mes projets personnels. Mon expertise principale reste Flutter/Dart et l'écosystème mobile.</i></p>
+📫 Travaillons ensemble !
+Je suis toujours ouvert aux discussions sur des opportunités professionnelles, des collaborations sur des projets à impact, ou du mentorat.
 
-🔗 [Mon site web](https://lelomaurice-f0c74.web.app/)
+<p align="center"> <a href="mailto:leloeduk2025@gmail.com"> <img src="https://img.shields.io/badge/-leloeduk2025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/lelo-maurice-714a72322"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://wa.me/242066826352"> <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> <a href="https://youtube.com/@leloeduk"> <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> </p>
+💡 Philosophie
+"Le code peut changer des vies. Moi, je code pour aider et j'enseigne pour amplifier l'impact."
 
----
+Mon objectif est de créer des technologies utiles pour ma communauté et de rendre le développement logiciel accessible à travers l'éducation. Chaque ligne de code et chaque tutoriel est un pas dans cette direction.
 
-## 📝 Sommaire
-- [🛠️ Stack technique](#️-stack-technique)  
-- [🚀 Projets récents](#-projets-récents)  
-- [📊 Statistiques GitHub](#-statistiques-github)  
-- [💻 Soutenez mon travail](#-soutenez-mon-travail)  
-- [📫 Me contacter](#-me-contacter)  
-- [💡 Citation](#-citation)
-
----
-
-## 🛠️ Stack technique
-<p float="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" width="50" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/appwrite/appwrite.png" width="50" />
-</p>
-
----
-
-## 🚀 Projets récents
-
-| Projet | Description | Lien |
-|--------|------------|------|
-| 📚 **LeloLivre** | Application de lecture et téléchargement de livres scolaires | [GitHub](https://github.com/leloeduk/LeloLivre) |
-| 👨‍🏫 **LeloProfs** | Plateforme de recrutement d'enseignants | [GitHub](https://github.com/leloeduk/LeloProfs) |
-
-> Vous pouvez ajouter un badge **Live Demo** ou screenshot pour chaque projet si disponible.
-
----
-
-## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leloeduk&show_icons=true&theme=tokyonight)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=leloeduk&layout=compact&theme=tokyonight)
-
----
-
-## 💻 Soutenez mon travail
-Si vous aimez mes projets, vous pouvez **⭐ mes dépôts**, partager mes travaux ou me contacter pour collaborer.  
-Vous pouvez également me soutenir via [GitHub Sponsors](https://github.com/sponsors/leloeduk) ou Buy Me a Coffee.
-
----
-
-## 📫 Me contacter
-💬 WhatsApp : +242 06 682 63 52 [![WhatsApp](https://img.shields.io/badge/-Envoyer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/242066826352)  
-🔗 Facebook : maurice.lelo.92 [![Facebook](https://img.shields.io/badge/-Profil-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maurice.lelo.92)  
-💼 LinkedIn : in/lelo-maurice-714a72322 [![LinkedIn](https://img.shields.io/badge/-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelo-maurice-714a72322)  
-📧 Email : leloeduk2025@gmail.com  
-
-
----
-
-## 💡 Citation
-> _“Le code peut changer des vies. Moi, je code pour aider.”_  
-
----
-
-### 📝 Fait amusant
-> « Je n'écris pas seulement du code ; je conçois des expériences ! »
+✨ Merci de votre visite ! N'hésitez pas à explorer mes repos et à vous abonner à ma chaîne pour suivre mon parcours.
