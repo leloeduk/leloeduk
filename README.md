@@ -6,7 +6,7 @@
 </p>
 -->
 
-<img src="https://raw.githubusercontent.com/Mariam123-Git/Mariam123-Git/main/header.svg" alt="Mariam KONÉ Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mariam123-Git/Mariam123-Git/main/header.svg" alt="LeloEduk Banner" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    👋 GREETING + AVATAR                     -->
