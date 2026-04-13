@@ -45,7 +45,7 @@
   </a>       
   &nbsp; -->
   <a href="https://github.com/Mariam123-Git" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Mariam123--Git-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Leloeuk--Git-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
