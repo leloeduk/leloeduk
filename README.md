@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/lelo-maurice-714a72322/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mariam%20Koné-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-lelo-maurice-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
 <!--  <a href="mailto:leloeduk2025@gmail.com">
