@@ -1,12 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      🌊 ANIMATED HEADER                    -->
 <!-- ═══════════════════════════════════════════════════════════
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mariam123-Git/Mariam123-Git/main/github-header-banner.png" alt="Mariam Koné Banner" width="100%">
-</p>
--->
-
-<img src="https://raw.githubusercontent.com/Mariam123-Git/Mariam123-Git/main/header.svg" alt="LeloEduk Banner" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    👋 GREETING + AVATAR                     -->
@@ -40,12 +34,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mariam%20Koné-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-<!--  <a href="mailto:mkone9489@gmail.com">
+<!--  <a href="mailto:leloeduk2025@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mkone9489-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>       
   &nbsp; -->
-  <a href="https://github.com/Mariam123-Git" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Leloeuk--Git-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Leloeduk-Git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Leloeduk--Git-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
