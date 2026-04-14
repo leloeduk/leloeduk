@@ -30,7 +30,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/mariam-kone-bb2162287" target="_blank">
+  <a href="[https://www.linkedin.com/in/lelo-maurice-714a72322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mariam%20Koné-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -47,16 +47,6 @@
 <!--               📍 LOCATION & STATUS BADGES                  -->
 <!-- ═══════════════════════════════════════════════════════════-->
 
-<p align="center">
-<!--               📍 LOCATION & STATUS BADGES               
-  <img src="https://img.shields.io/badge/📍%20Brest%2C%20France-informational?style=flat-square&color=2ea44f" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🇲🇱%20Origin%20--%20Mali-informational?style=flat-square&color=e4a400" />   -->
-  &nbsp;
-  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Job-available?style=flat-square&color=1abc9c" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Mariam123-Git&label=👁️%20Profile%20Views&color=0e75b6&style=flat-square" /> 
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--              🌐 SNAKE CONTRIBUTION ANIMATION               -->
