@@ -1,113 +1,137 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <strong style="font-size:2em;"> Lelo Maurice </strong>
+</p>
+
+<h1 align="center">Lelo Maurice</h1>
+
+<p align="center">
+  📱 Flutter Mobile Engineer • ⚙️ Full-Stack Developer • ☁️ Cloud & Backend Builder
 </p>
 
 <p align="center">
-  Full-Stack Developer • Backend & Cloud Engineer • Mobile Builder
-</p>
-
-<p align="center">
-  📍 Pointe-Noire, Congo | 🌐 Portfolio : https://lelomaurice-f0c74.web.app
+  📍 Pointe-Noire, Congo | 🌐 Portfolio: https://lelomaurice-f0c74.web.app
 </p>
 
 ---
 
-# 🧠 About Me
+# 📱 Mobile Engineering First
 
-I am a **Full-Stack Developer focused on building scalable, production-ready systems**.
+I am a **Flutter Mobile Engineer focused on building high-performance, production-ready mobile applications**.
 
-I specialize in designing:
-- ⚙️ Robust backend architectures
-- 🌐 Modern APIs (REST & GraphQL)
-- 📱 Cross-platform mobile applications
-- ☁️ Cloud deployments & VPS infrastructure
+I design and ship apps that are:
+- ⚡ Fast & responsive
+- 🧠 Architecturally clean
+- 🔥 Scalable with Firebase / Supabase
+- 📦 Ready for real-world deployment
 
-🎯 My goal:  
-> Build clean, scalable and maintainable digital systems that solve real-world problems.
+🎯 My focus:
+> Turning ideas into polished mobile products used in real environments.
 
 ---
 
-# ⚡ Core Expertise
+# 📱 Mobile Expertise (CORE)
 
-## 🧩 Backend & Architecture
-- Django (REST / GraphQL APIs)
-- System design & scalable architecture
-- Authentication & role-based systems
+## 🧩 Flutter Engineering
+- Flutter production apps (Android / iOS)
+- Clean architecture (feature-based structure)
+- State management (BLoC / structured patterns)
+- API integration (REST / GraphQL)
+- Firebase & Supabase integration
 
-## 🌐 Frontend Engineering
+## 🔥 Mobile Backend Integration
+- Firebase Auth & Firestore
+- Real-time data systems
+- Cloud storage & sync
+- Offline-first architecture
+
+## 📦 App Engineering Focus
+- UI/UX performance optimization
+- Modular architecture
+- Scalable project structure
+- App deployment & release (Play Store)
+
+---
+
+# ⚙️ Secondary Full-Stack Skills
+
+## 🧠 Backend Engineering
+- Django (REST & GraphQL APIs)
+- Authentication systems (roles, permissions)
+- System design for scalable apps
+
+## 🌐 Web Development
 - React (modern UI systems)
-- HTML / CSS / JavaScript
-- Responsive & performant interfaces
-
-## 📱 Mobile Development
-- Flutter (production apps)
-- Firebase / Supabase integration
-- State management (BLoC / structured architecture)
+- JavaScript / HTML / CSS
 
 ## ☁️ Cloud & DevOps
 - Linux VPS deployment
-- CI/CD (GitHub Actions)
 - Firebase / Supabase / Appwrite
+- GitHub Actions (CI/CD)
 - Production hosting & scaling
 
 ---
 
-# 🧱 Tech Stack (Focused)
+# 🧱 Tech Stack Summary
 
-### Backend
-Django • Python • GraphQL • REST APIs
+### 📱 Mobile (Primary)
+Flutter • Dart • Firebase • Supabase • BLoC
 
-### Frontend
+### ⚙️ Backend
+Django • Python • REST • GraphQL
+
+### 🌐 Frontend Web
 React • JavaScript • HTML • CSS
 
-### Mobile
-Flutter • Dart • Firebase
+### 🗄️ Database
+Firestore • PostgreSQL • MongoDB
 
-### Database
-PostgreSQL • MongoDB
-
-### Cloud / DevOps
-Linux • VPS • Firebase • Supabase • GitHub Actions
+### ☁️ Cloud / DevOps
+Linux • VPS • Firebase • GitHub Actions
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Mobile Products
 
-## 🚗 Lavage Samy Auto
-Production backend system for car wash management
-- Django backend
-- API-based architecture
+## 👨‍🏫 LeloProfs (Flagship Mobile App)
+A production Flutter application connecting teachers and schools.
+
+- 🔐 Firebase Authentication
+- 🧠 Firestore real-time database
+- 🏫 Teacher / School matching system
+- 📱 Clean mobile UI/UX architecture
+
+---
+
+## 📚 LeloLivre
+Educational mobile reading platform
+
+- Flutter + Supabase backend
+- PDF reading & download system
+- Scalable content structure
+
+---
+
+## 📱 SMS Magique
+Smart communication mobile app
+
+- Flutter mobile system
+- Advanced SMS features
+- Lightweight architecture
+
+---
+
+## 🚗 Lavage Samy Auto (Backend + System)
+Supporting backend system for real-world business
+
+- Django REST API
 - Deployed on Render / VPS
+- Production-ready architecture
 
 🌐 Live: https://lavagesamy.onrender.com/
 
 ---
 
-## 👨‍🏫 LeloProfs
-Teacher recruitment platform
-- Flutter mobile app
-- Firebase authentication & Firestore
-- School / teacher matching system
-
----
-
-## 📚 LeloLivre
-Educational book platform
-- Flutter + Supabase
-- PDF management system
-- Download & reading features
-
----
-
-## 📱 SMS Magique
-Smart SMS mobile system
-- Flutter application
-- Advanced messaging features
-
----
-
-# 📊 GitHub Analytics
+# 📊 Engineering Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leloeduk&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -117,13 +141,15 @@ Smart SMS mobile system
 
 ---
 
-# 🧠 What I Focus On
+# 🧠 Engineering Philosophy
 
-- Building scalable backend systems
-- Designing clean APIs
-- Developing production-ready mobile apps
-- Deploying real-world cloud systems
-- Turning ideas into working products
+> “A mobile app is not just UI — it is architecture, performance, and user experience combined into one system.”
+
+I focus on:
+- Clean mobile architecture
+- Performance-first development
+- Real-world scalability
+- Maintainable codebases
 
 ---
 
@@ -135,12 +161,8 @@ Smart SMS mobile system
 
 ---
 
-# 💡 Philosophy
-
-> “Great software is not just written — it is engineered, structured, and maintained.”
-
----
+# 🚀 Closing Statement
 
 <p align="center">
-  🚀 Always building. Always improving.
+  💡 I build mobile apps that don’t just run — they perform, scale, and last.
 </p>
