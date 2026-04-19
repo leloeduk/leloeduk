@@ -117,6 +117,7 @@ Smart communication mobile app
 - Flutter mobile system
 - Advanced SMS features
 - Lightweight architecture
+🌐 Live: https://play.google.com/store/apps/details?id=com.leloeduk.sms_magique&hl=en
 
 ---
 
