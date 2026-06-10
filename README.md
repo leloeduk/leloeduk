@@ -5,7 +5,7 @@
 <h1 align="center">Lelo Maurice</h1>
 
 <p align="center">
-  📱 Flutter Mobile Engineer • ⚙️ Full-Stack Developer • ☁️ Cloud & Backend Builder
+  📱 Flutter Mobile Engineer • ⚙️ Full-Stack Developer • ☁️ DevOps and Cloud & Backend Builder
 </p>
 
 <p align="center">
