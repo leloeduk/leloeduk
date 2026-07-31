@@ -11,7 +11,7 @@
 </div>
 
 <!-- Sous-titre animé -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Flutter+%F0%9F%93%B1;Formateur+Flutter+%26+Firebase+%F0%9F%94%A5;Enseignant+Maths+%26+Informatique+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Ambassadeur+10000+Codeurs+%F0%9F%87%AB%F0%9F%87%B7;Fondateur+de+LeloEduk+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Flutter+%F0%9F%93%B1;Formateur+Flutter+%26+Firebase+%F0%9F%94%A5;Enseignant+d%27Informatique+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;AI+Enthusiast+%F0%9F%A4%96;Ambassadeur+10000+Codeurs+%F0%9F%87%A8%F0%9F%87%AC;Fondateur+de+LeloEduk+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br><br>
 
@@ -71,7 +71,7 @@ profession:
   - Développeur Flutter
   - Formateur Flutter & Firebase
   - Enseignant d'Informatique
-  - Enseignant de Mathématiques
+  - AI Enthusiast
   - Ambassadeur & Lead Dev 10000 Codeurs
 
 organisation:
@@ -96,7 +96,8 @@ objectif: Construire des solutions IA
 ### 🗣️ **Langues**
 
 - Français 🇫🇷
-- English 🇬🇧 (B1)
+- English 🇬🇧
+- Kituba
 - Lingala
 
 </td>
@@ -323,9 +324,8 @@ Génération de CV professionnels et personnalisés en quelques secondes grâce 
 | 🌍 | **Organisation** | **Rôle** | **Période** |
 |:---:|:---|:---|:---|
 | 🏛️ | **OIF - Organisation Internationale de la Francophonie** | Formateur Flutter | 2025 - Présent |
-| 🇫🇷 | **10000 Codeurs France** | Ambassadeur & Lead Dev | 2025 - Présent |
+| 🇨🇬 | **10000 Codeurs Congo** | Ambassadeur & Lead Dev | 2025 - Présent |
 | 🔥 | **FlutterFire Camp Africa** | Mentor Flutter | 2025 |
-| ➗ | **Sisters School · Jean Paul Sartre · Victoire School · God Will School** | Enseignant de Mathématiques | - |
 | 💻 | **Établissements scolaires** | Enseignant d'Informatique | - |
 
 </div>
