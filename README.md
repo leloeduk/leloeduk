@@ -11,7 +11,7 @@
 </div>
 
 <!-- Sous-titre animé -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Flutter+%F0%9F%93%B1;Formateur+Flutter+%26+Firebase+%F0%9F%94%A5;Enseignant+d%27Informatique+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;AI+Enthusiast+%F0%9F%A4%96;Ambassadeur+10000+Codeurs+%F0%9F%87%A8%F0%9F%87%AC;Fondateur+de+LeloEduk+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Front-end+%26+Back-end+Developer+%F0%9F%92%BB;Flutter+%26+Firebase+Trainer+%F0%9F%94%A5;Computer+Science+Teacher+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;AI+Enthusiast+%F0%9F%A4%96;Ambassador+%26+Lead+Dev+10000+Codeurs+%F0%9F%87%A8%F0%9F%87%AC;Founder+of+LeloEduk+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br><br>
 
@@ -51,7 +51,7 @@
 <!-- Section À propos -->
 <div align="center">
 
-## 👨‍💻 **À Propos**
+## 👨‍💻 **About**
 
 </div>
 
@@ -64,23 +64,24 @@
 ### 📝 **Bio**
 
 ```yaml
-nom: Lelo Maurice
-localisation: Pointe-Noire, République du Congo 🇨🇬
+name: Lelo Maurice
+location: Pointe-Noire, Republic of the Congo 🇨🇬
 
 profession:
-  - Développeur Flutter
-  - Formateur Flutter & Firebase
-  - Enseignant d'Informatique
+  - Flutter Developer
+  - Front-end & Back-end Developer
+  - Flutter & Firebase Trainer
+  - Computer Science Teacher
   - AI Enthusiast
-  - Ambassadeur & Lead Dev 10000 Codeurs
+  - Ambassador & Lead Dev 10000 Codeurs
 
 organisation:
   - OIF D-CLIC
   - 10000 Codeurs
   - FlutterFire Africa
 
-objectif: Construire des solutions IA
-          et éducatives pour l'Afrique
+objective: Build AI and educational solutions
+          for Africa
 ```
 
 </td>
@@ -88,14 +89,14 @@ objectif: Construire des solutions IA
 
 ### 🎯 **Passions**
 
-- 📱 Développement Mobile Flutter
-- 📚 Éducation numérique
+- 📱 Flutter Mobile Development
+- 📚 Digital Education
 - 🚀 Open Source
-- 🎥 Création de contenu YouTube
+- 🎥 YouTube Content Creation
 
-### 🗣️ **Langues**
+### 🗣️ **Languages**
 
-- Français 🇫🇷
+- French 🇫🇷
 - English 🇬🇧
 - Kituba
 - Lingala
@@ -113,7 +114,7 @@ objectif: Construire des solutions IA
 <!-- Compétences techniques -->
 <div align="center">
 
-## 🛠️ **Stack Technique**
+## 🛠️ **Tech Stack**
 
 ### 📱 **Mobile**
 
@@ -138,6 +139,33 @@ objectif: Construire des solutions IA
 <td align="center" width="120">
 <img src="https://img.shields.io/badge/Provider-F97316?style=for-the-badge&logo=dart&logoColor=white" alt="Provider" />
 <br><br><strong>Provider</strong>
+</td>
+</tr>
+</table>
+
+### 🎨 **Web / Frontend**
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" height="50" alt="HTML" />
+<br><strong>HTML</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" height="50" alt="CSS" />
+<br><strong>CSS</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50" height="50" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" height="50" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50" height="50" alt="Next.js" />
+<br><strong>Next.js</strong>
 </td>
 </tr>
 </table>
@@ -169,7 +197,7 @@ objectif: Construire des solutions IA
 </tr>
 </table>
 
-### ☁️ **Cloud & Outils**
+### ☁️ **Cloud & Tools**
 
 <table align="center">
 <tr>
@@ -213,35 +241,35 @@ objectif: Construire des solutions IA
 <!-- Section Projets -->
 <div align="center">
 
-## 💼 **Projets LeloEduk**
+## 💼 **LeloEduk Projects**
 
 <table>
 <tr>
 <td width="50%">
 
 ### 📚 **LeloEduk**
-Plateforme d'apprentissage basée sur Flutter + IA.
+Flutter + AI learning platform.
 
 **Stack:** Flutter, Firebase, Gemini, ML Kit
 
-Écosystème éducatif intelligent pour rendre l'apprentissage accessible à l'Afrique.
+Smart educational ecosystem to make learning accessible in Africa.
 
 <a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_En_développement-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
 </a>
 
 </td>
 <td width="50%">
 
 ### 👨‍🏫 **LeloProfs**
-Application destinée aux enseignants.
+Application designed for teachers.
 
 **Stack:** Flutter, Dart, Firebase, DRF
 
-Outils de gestion de classes, suivi des élèves et communication avec les familles.
+Classroom management tools, student tracking and family communication.
 
 <a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_En_développement-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
 </a>
 
 </td>
@@ -250,28 +278,28 @@ Outils de gestion de classes, suivi des élèves et communication avec les famil
 <td width="50%">
 
 ### 📖 **LeloLivre**
-Bibliothèque numérique.
+Digital library.
 
 **Stack:** Flutter, Bloc, Firebase, OCR
 
-Lecture de livres numériques et numérisation intelligente de documents éducatifs.
+Reading digital books and smart scanning of educational documents.
 
 <a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_En_développement-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
 </a>
 
 </td>
 <td width="50%">
 
 ### 🧠 **LeloQuiz**
-Quiz intelligents générés par IA.
+AI-powered smart quizzes.
 
 **Stack:** Flutter, Gemini, Provider
 
-Génération automatique de quiz adaptés au niveau de chaque apprenant.
+Automatic generation of quizzes adapted to each learner's level.
 
 <a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_En_développement-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
 </a>
 
 </td>
@@ -280,28 +308,28 @@ Génération automatique de quiz adaptés au niveau de chaque apprenant.
 <td width="50%">
 
 ### 💰 **LeloBudget**
-Gestion financière personnelle.
+Personal finance management.
 
 **Stack:** Flutter, SQLite, Charts
 
-Suivi des dépenses, budget intelligent et analyses financières simplifiées.
+Expense tracking, smart budgeting and simplified financial analytics.
 
 <a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_En_développement-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
 </a>
 
 </td>
 <td width="50%">
 
 ### 📄 **LeloCV**
-Créateur de CV avec IA.
+AI CV builder.
 
 **Stack:** Flutter, Gemini, PDF
 
-Génération de CV professionnels et personnalisés en quelques secondes grâce à l'IA.
+Professional, personalized CV generation in seconds thanks to AI.
 
 <a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_En_développement-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
 </a>
 
 </td>
@@ -319,14 +347,14 @@ Génération de CV professionnels et personnalisés en quelques secondes grâce 
 <!-- Expérience -->
 <div align="center">
 
-## 💼 **Expérience**
+## 💼 **Experience**
 
-| 🌍 | **Organisation** | **Rôle** | **Période** |
+| 🌍 | **Organisation** | **Role** | **Period** |
 |:---:|:---|:---|:---|
-| 🏛️ | **OIF - Organisation Internationale de la Francophonie** | Formateur Flutter | 2025 - Présent |
-| 🇨🇬 | **10000 Codeurs Congo** | Ambassadeur & Lead Dev | 2025 - Présent |
-| 🔥 | **FlutterFire Camp Africa** | Mentor Flutter | 2025 |
-| 💻 | **Établissements scolaires** | Enseignant d'Informatique | - |
+| 🏛️ | **OIF - Organisation Internationale de la Francophonie** | Flutter Trainer | 2025 - Present |
+| 🇨🇬 | **10000 Codeurs Congo** | Ambassador & Lead Dev | 2025 - Present |
+| 🔥 | **FlutterFire Camp Africa** | Flutter Mentor | 2025 |
+| 💻 | **Schools** | Computer Science Teacher | - |
 
 </div>
 
@@ -425,11 +453,11 @@ Génération de CV professionnels et personnalisés en quelques secondes grâce 
 <!-- Contact -->
 <div align="center">
 
-## 📬 **Me Contacter**
+## 📬 **Contact Me**
 
 💌 **Email:** leloeduk2025@gmail.com  
 🌐 **Portfolio:** leloeduk.com  
-📍 **Localisation:** Pointe-Noire, République du Congo 🇨🇬
+📍 **Location:** Pointe-Noire, Republic of the Congo 🇨🇬
 
 <br>
 
@@ -451,15 +479,15 @@ Génération de CV professionnels et personnalisés en quelques secondes grâce 
 
 <br><br>
 
-### ⭐ **N'hésitez pas à explorer mes projets et à laisser une étoile !**
+### ⭐ **Feel free to explore my projects and leave a star!**
 
-### 🤝 **Ouvert à de nouvelles collaborations et opportunités**
+### 🤝 **Open to new collaborations and opportunities**
 
 <br><br>
 
 ---
 
-<sub>🚀 Fait avec passion par LeloEduk | © 2025 Lelo Maurice</sub>
+<sub>🚀 Made with passion by LeloEduk | © 2025 Lelo Maurice</sub>
 
 <br>
 
