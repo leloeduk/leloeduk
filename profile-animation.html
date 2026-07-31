@@ -14,11 +14,37 @@
         }
       }
 
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #0d1117;
+        font-family: "Fira Code", monospace;
+        color: #f97316;
+      }
+
+      .header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+        flex-wrap: wrap;
+        padding: 20px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 45px;
+        font-weight: 700;
+      }
+
       .profile-container {
         position: relative;
         width: 200px;
         height: 200px;
-        margin: 0 auto;
+        flex-shrink: 0;
       }
 
       .blob-animation {
@@ -41,9 +67,12 @@
     </style>
   </head>
   <body>
-    <div class="profile-container">
-      <div class="blob-animation"></div>
-      <img src="leloeduk.png" class="profile-photo" alt="Profile" />
+    <div class="header">
+      <h1>Lelo Maurice</h1>
+      <div class="profile-container">
+        <div class="blob-animation"></div>
+        <img src="leloeduk.png" class="profile-photo" alt="Profile" />
+      </div>
     </div>
   </body>
 </html>

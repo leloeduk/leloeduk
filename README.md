@@ -2,10 +2,13 @@
 
 <br><br>
 
-<!-- Nom en grand -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Lelo+Maurice" alt="Lelo Maurice" />
-</h1>
+<!-- Nom + Photo de profil -->
+<div style="display: inline-flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <h1 style="margin: 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Lelo+Maurice" alt="Lelo Maurice" />
+  </h1>
+  <img src="leloeduk.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #F97316; box-shadow: 0 0 20px rgba(249, 115, 22, 0.35);" alt="Photo de Lelo Maurice" />
+</div>
 
 <!-- Sous-titre animé -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Flutter+%F0%9F%93%B1;Ing%C3%A9nieur+IA+%F0%9F%A4%96;DevOps+Engineer+%E2%98%81%EF%B8%8F;Enseignant+Maths+%26+Informatique+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Fondateur+de+LeloEduk+%F0%9F%9A%80" alt="Typing SVG" />
@@ -484,7 +487,7 @@ Génération de CV professionnels et personnalisés en quelques secondes grâce 
 <td align="center" width="25%">
 
 ### 🏆 **Reconnaissance**
-✅ Google Developer Expert Flutter
+🎯 En route vers Google Developer Expert Flutter
 
 </td>
 <td align="center" width="25%">
