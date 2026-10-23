@@ -244,65 +244,37 @@ objective: Build useful products, share knowledge,
 <!-- Section Projets -->
 <div align="center">
 
-## 💼 **LeloEduk Projects**
+## 💼 **Projects**
 
 <table>
 <tr>
 <td width="50%">
 
-### 📚 **LeloEduk**
-Flutter + AI learning platform.
+### 📱 **OnTestApp**
+Platform that helps mobile developers find app testers, organize testing missions, and collect feedback before release.
 
-**Stack:** Flutter, Firebase, Gemini, ML Kit
+**Stack:** Flutter, Dart, BLoC, Firebase, Firestore
 
-Smart educational ecosystem to make learning accessible in Africa.
-
-<a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
+<a href="https://ontest.leloeduk.com">
+  <img src="https://img.shields.io/badge/🌐_Website-Online-2EA44F?style=for-the-badge" alt="OnTestApp website"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.leloeduk.ontestapp">
+  <img src="https://img.shields.io/badge/▶_Google_Play-App-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="OnTestApp on Google Play"/>
 </a>
 
 </td>
 <td width="50%">
 
-### 👨‍🏫 **LeloProfs**
-Application designed for teachers.
+### 🔎 **Trouve Moi**
+Platform for finding lost documents and objects, connecting people who lost them with those who found them.
 
-**Stack:** Flutter, Dart, Firebase, DRF
+**Stack:** Flutter, Dart, Firebase
 
-Classroom management tools, student tracking and family communication.
-
-<a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
+<a href="https://trouvemoi.leloeduk.com">
+  <img src="https://img.shields.io/badge/🌐_Website-Online-2EA44F?style=for-the-badge" alt="Trouve Moi website"/>
 </a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📖 **LeloLivre**
-Digital library.
-
-**Stack:** Flutter, Bloc, Firebase, OCR
-
-Reading digital books and smart scanning of educational documents.
-
-<a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
-</a>
-
-</td>
-<td width="50%">
-
-### 🧠 **LeloQuiz**
-AI-powered smart quizzes.
-
-**Stack:** Flutter, Gemini, Provider
-
-Automatic generation of quizzes adapted to each learner's level.
-
-<a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
+<a href="https://github.com/leloeduk/trouvemoi">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Trouve Moi repository"/>
 </a>
 
 </td>
@@ -310,29 +282,28 @@ Automatic generation of quizzes adapted to each learner's level.
 <tr>
 <td width="50%">
 
-### 💰 **LeloBudget**
-Personal finance management.
+### 🏫 **LeloCollege API**
+REST API providing middle-school learning resources, including classes, subjects, chapters, assignments, documents, and exam papers with solutions.
 
-**Stack:** Flutter, SQLite, Charts
+**Stack:** Python, Django, Django REST Framework
 
-Expense tracking, smart budgeting and simplified financial analytics.
-
-<a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
+<a href="https://lelocollegeapi.onrender.com/api/">
+  <img src="https://img.shields.io/badge/🌐_API-Online-2EA44F?style=for-the-badge" alt="LeloCollege API"/>
+</a>
+<a href="https://github.com/leloeduk/lelocollegeapi002">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeloCollege API repository"/>
 </a>
 
 </td>
 <td width="50%">
 
-### 📄 **LeloCV**
-AI CV builder.
+### 🎨 **Lelo Designer**
+Showcase website for a creative design brand, featuring its work, blog, and contact form.
 
-**Stack:** Flutter, Gemini, PDF
+**Stack:** HTML, CSS, JavaScript
 
-Professional, personalized CV generation in seconds thanks to AI.
-
-<a href="https://github.com/LeloEduk">
-  <img src="https://img.shields.io/badge/🚀_In_development-F97316?style=for-the-badge" />
+<a href="https://lelodesigner.onrender.com/">
+  <img src="https://img.shields.io/badge/🌐_Website-Online-2EA44F?style=for-the-badge" alt="Lelo Designer website"/>
 </a>
 
 </td>
